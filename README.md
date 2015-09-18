@@ -1,0 +1,2 @@
+## C# application for windows
+The App was devloped in a day long competetion Hackathon organized by Microsoft IDC. This application allows the user to signal all his close friends in any critical situations. It geo-tags the user and send his location to everyone of them. 
